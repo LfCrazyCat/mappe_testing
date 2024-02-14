@@ -4,7 +4,7 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "start": "react-script start",
+    "start": "react-scripts start",
     "compile:sass": "node-sass src/App.scss src/App.css --output-style expanded --watch",
     "dev": "vite",
     "build": "vite build",
